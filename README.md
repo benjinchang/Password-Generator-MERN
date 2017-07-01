@@ -26,9 +26,8 @@ Install Create-React-App & Express-Generator once globally:
 npm install -g create-react-app express-generator
 ```
 ## Running Locally
-Requires the node server and react server to be both run
-
-Run the following command in root folder & client folder
+Requires the node server and react server to be both run simultaneously. 
+In the root folder and client folder run the following command.
 ```sh
 npm run start 
 ```
