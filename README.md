@@ -3,7 +3,7 @@ Simple MERN application that generates passwords
 Using Create-React-App-Module & express-generator module connected through a proxy
 
 ## Live Link
-https://young-journey-33204.herokuapp.com/ <br>
+https://bjc-password-generator-mern.herokuapp.com/ <br>
 Application is in hibernation mode. <br>
 Press try again button to load passwords. <br>
 May take up to 15 seconds for passwords to be generated after being awoken from hibernation.
